@@ -1,4 +1,4 @@
-symfony-sample
-==============
+Symfony Sample
+========================
 
-十分钟入门学会Symfony的例子
+10 min symfony sample
